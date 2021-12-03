@@ -1,4 +1,4 @@
-{% set version = "1.0.2" %}
+{% set version = "1.0.3" %}
 {% set posix = 'm2-' if win else '' %}
 {% set native = 'm2w64-' if win else '' %}
 
@@ -10,7 +10,7 @@ source:
   url:
     - {{ cran_mirror }}/src/contrib/ggstar_{{ version }}.tar.gz
     - {{ cran_mirror }}/src/contrib/Archive/ggstar/ggstar_{{ version }}.tar.gz
-  sha256: 0a0247046f38157a545fa67439dad6bf5cc0ba54efdf2e966a842aee745b0b10
+  sha256: 23df22864a38321346f75a059d8266df28c4789ff40af3958e02b508bac62635
 
 build:
   merge_build_host: true  # [win]
