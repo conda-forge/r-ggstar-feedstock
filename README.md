@@ -1,11 +1,11 @@
-About r-ggstar
-==============
+About r-ggstar-feedstock
+========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-ggstar-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/xiangpin/ggstar/
 
 Package license: Artistic-2.0
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-ggstar-feedstock/blob/main/LICENSE.txt)
 
 Summary: To create the regular polygon layer for easily discernible shapes, we developed the package, it can be easily used if you know the 'ggplot2'.
 
